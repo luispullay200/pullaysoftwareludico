@@ -1,1 +1,2 @@
 # pullaysoftwareludico
+La comunicación oral
